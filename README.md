@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**kabine5555/Kabine5555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kabine5555/geomancie-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
